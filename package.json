@@ -36,7 +36,7 @@
         "babel-plugin-transform-object-rest-spread": "^6.23.0",
         "babel-plugin-transform-react-jsx": "^6.24.1",
         "babel-preset-env": "^1.5.1",
-        "webpack": "^2.6.1"
+        "webpack": "^5.75.0"
     },
     "bugs": {
         "url": "https://github.com/ssxv/react-dropdown-date/issues"
